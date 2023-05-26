@@ -13,7 +13,7 @@ Différents critères imposés :
 Création d'une application mobile
 -------------------------------------
 
-Après une première phase de brainstroming, le groupe à décidé de développer une application mobile pour trouver un terrain de pétanque proche de son lieu de vacances qui permettrait d'avoir différentes infos, une option de flitrage, une fonction gps et une communauté.
+Après une première phase de brainstroming, le groupe a décidé de développer une application mobile pour trouver un terrain de pétanque proche de son lieu de vacances qui permettrait d'avoir différentes infos, une option de flitrage, une fonction gps et une communauté.
 
 Contributions personnelle
 -------------------------------------
